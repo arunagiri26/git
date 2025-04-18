@@ -1,3 +1,3 @@
-## Hello, Git!
+## Welcome to Git!
 
-- Welcome yo the git learning
+- This is comming from 'dev-2'git add
