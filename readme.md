@@ -1,3 +1,3 @@
-## Hello, every one welcome to my git guide!
+## Hello, everyone!
 
-- Welcome yo the git learning
+- This is from two
