@@ -3,4 +3,4 @@
 - This is from two
 - Welcome to one
  
-push code
+push this code to the repository
